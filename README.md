@@ -13,8 +13,8 @@ To write a yacc program to recognize a valid arithmetic expression that uses ope
 8.	Enter an arithmetic expression as input and the tokens are identified as output.
 # PROGRAM:
 ```
-NAME:N.NAVYA SREE
-REGISTER NO:212223040138
+NAME: VRUMAA HARISH M
+REGISTER NO:212223230246
 
 Program name:ex3.l
 %{
